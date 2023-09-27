@@ -1,5 +1,5 @@
 ### 👋 Yet Another Josh
-Build it to be explored, the value is the flexibility. Don't get obsolete.
+Build to be explored, value is in flexibility. Don't get obsolete.
 
 _Skills: Frontend, React, CSS, TypeScript, data/schemas, some obsolete ones too_
 
