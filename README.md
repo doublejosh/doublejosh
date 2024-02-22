@@ -7,6 +7,4 @@ _Skills: Frontend, React, CSS, TypeScript, data/schemas, some obsolete ones too_
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=doublejosh&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=doublejosh)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=doublejosh)  
